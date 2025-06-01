@@ -19,7 +19,7 @@ forum-java 是一个开源的现代化社区平台，它实现了：
 
 - 感谢 破冰安全实验室 帮忙做的项目安全漏洞扫描，保障这个项目的每个用户可以放心大胆的使用，关注 破冰安全实验室 公众号了解更多安全知识（下图）；
 
-![破冰安全实验室](https://static.developers.pub/292955c12fca41528a329ca24daf9cc4)
+![破冰安全实验室](https://wallpapers.com/images/hd/valorant-jett-angry-aura-2hoh75yg301a36ra.jpg)
 
 # 三 为什么要做这个项目？
 
