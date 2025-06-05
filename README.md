@@ -248,18 +248,6 @@ yarn dev
 
 > **注意**: 请根据项目的实际构建配置和启动方式调整上述命令。
 
-## 🤝 贡献指南
-
-欢迎对本项目进行贡献！如果您有任何改进建议或发现任何问题，请通过以下方式参与：
-1.  Fork 本仓库
-2.  创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
-3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4.  将更改推送到分支 (`git push origin feature/AmazingFeature`)
-5.  开启一个 Pull Request
-
-## 📄 许可证
-
-[ 根据您的项目选择合适的开源许可证，例如：MIT License ]
 
 ---
 
